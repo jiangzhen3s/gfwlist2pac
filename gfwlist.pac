@@ -11,6 +11,7 @@ var rules = [
     ],
     [
         [
+            "coursera-apps.org",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
